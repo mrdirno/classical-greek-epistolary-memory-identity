@@ -1,0 +1,160 @@
+{
+  "book_id": "classical_greek_epistolary_memory_identity",
+  "title": "The Wax Tablet and the Stone",
+  "tagline": "A freed debtor must reconstruct his past from the fragments of other men's lives, forging truth from memory in the law courts of Athens.",
+  "target_words": 70000,
+  "actual_words": 74543,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Reconstruction of Self Through Narrative",
+    "Memory as a Legal and Personal Currency",
+    "The Epistolary Self: Identity Forged in Writing",
+    "Athenian Justice as a Theater of Manufactured Truth"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Stone and the Stylus",
+      "words": 3100
+    },
+    {
+      "ch": 2,
+      "title": "The Shape of an Argument",
+      "words": 2900
+    },
+    {
+      "ch": 3,
+      "title": "The Grain Merchant's Ledger",
+      "words": 3200
+    },
+    {
+      "ch": 4,
+      "title": "Echoes in the Agora",
+      "words": 2800
+    },
+    {
+      "ch": 5,
+      "title": "The Speech for the Silent",
+      "words": 3100
+    },
+    {
+      "ch": 6,
+      "title": "A Letter from Aegina",
+      "words": 2950
+    },
+    {
+      "ch": 7,
+      "title": "The Memory of Storms",
+      "words": 3300
+    },
+    {
+      "ch": 8,
+      "title": "The Defendant's Eyes",
+      "words": 3050
+    },
+    {
+      "ch": 9,
+      "title": "Dialogues with a Ghost",
+      "words": 3150
+    },
+    {
+      "ch": 10,
+      "title": "The Archive of Shame",
+      "words": 2900
+    },
+    {
+      "ch": 11,
+      "title": "Fragments of a Father",
+      "words": 3400
+    },
+    {
+      "ch": 12,
+      "title": "The Hound for Truth",
+      "words": 3100
+    },
+    {
+      "ch": 13,
+      "title": "The Woman of Piraeus",
+      "words": 3250
+    },
+    {
+      "ch": 14,
+      "title": "A Truth Too Ugly",
+      "words": 3000
+    },
+    {
+      "ch": 15,
+      "title": "The Unwritten Defense",
+      "words": 2950
+    },
+    {
+      "ch": 16,
+      "title": "The Weight of a Name",
+      "words": 3200
+    },
+    {
+      "ch": 17,
+      "title": "The Prisoner's Testimony",
+      "words": 3100
+    },
+    {
+      "ch": 18,
+      "title": "Lysias's Ledger",
+      "words": 3300
+    },
+    {
+      "ch": 19,
+      "title": "The Art of Forgetting",
+      "words": 2900
+    },
+    {
+      "ch": 20,
+      "title": "Before the Dikasts",
+      "words": 3500
+    },
+    {
+      "ch": 21,
+      "title": "The Verdict on the Self",
+      "words": 3100
+    },
+    {
+      "ch": 22,
+      "title": "The Blank Papyrus",
+      "words": 2800
+    },
+    {
+      "ch": 23,
+      "title": "The First Principle",
+      "words": 3200
+    },
+    {
+      "ch": 24,
+      "title": "I Am Kleon, Son of Nikias",
+      "words": 2983
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a 'lost' letter from Kleon's father, Nikias, written on the eve of the doomed shipping venture, revealing his fears and hopes.",
+      "Compose the internal monologue of Lysias as he assesses Kleon for the first time in the prison courtyard. What does he see, and what past of his own does it echo?",
+      "Draft the speech Kleon writes for a client accused of a crime he did commit, exploring how to craft persuasive truth from immoral facts.",
+      "Create an entry from the prison gaoler's log, detailing the arrival, condition, and departure of prisoner 'Athenian Debtor #7'."
+    ],
+    "technical": [
+      "Build an interactive 'Memory Palace' website where users can navigate the fragments of Kleon's past (letters, legal depositions, sensory memories) to reconstruct the narrative.",
+      "Develop a text-generation tool that mimics a 'logographer's workshop,' where a user inputs case facts and the AI generates persuasive Athenian-style rhetorical arguments in different voices (Lysias's precision, Kleon's rawness)."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Thucydides",
+      "Sappho",
+      "Marcus Aurelius",
+      "Italo Calvino"
+    ]
+  },
+  "cover_prompt": "A solitary man, his back to us, meticulously assembles a fragmented mosaic of inscribed wax tablets and smooth river stones on a worn wooden table, [in the grand, shadowy interior of an Athenian stoa at dusk, with scrolls and legal parchments scattered like fallen leaves, and the distant, ghostly outlines of the Acropolis visible through a stone archway], [in the atmospheric style of John William Waterhouse combined with the textured, classical realism of Lawrence Alma-Tadema], [book cover framing, a centered and intimate composition viewed from a low, dramatic angle that emphasizes the weight of the fragments], [dramatic chiaroscuro lighting with a single shaft of warm, golden-hour light cutting through the gloom to illuminate the tablets, casting long, symbolic shadows, color palette of burnished golds, deep umbers, cool marble whites, and faded papyrus hues], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
