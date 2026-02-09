@@ -1,4 +1,6 @@
- CHAPTER 1
+Chapter 1
+
+CHAPTER 1
 
 The stone was cool and slightly damp against my cheek. I had been lying there long enough for the chill to seep through skin and into bone, long enough for the rough-hewn edge of the block to imprint a lattice of pain across my face. I did not move. To move was to admit the stone was real, the cell was real, the iron taste of blood in my mouth was real. Instead, I listened to the silence. It was not a true silence. It was the thick, woolen quiet of a place underground, threaded through with the distant drip of water and the scuttle of something with too many legs. And beneath that, the sound of my own breathing, a ragged, untidy rhythm in the dark.
 
@@ -78,7 +80,9 @@ This is where the story begins. Or perhaps, where it begins again.
 
 ---
 
- CHAPTER 2
+Chapter 2
+
+CHAPTER 2
 
 The grain merchant’s name was Philon. His account of events was a swamp of self-justification and panic. I spent the first day waist-deep in it, cross-referencing his meandering narrative with the terse, damning depositions from his business partner, a Cypriot named Mnasos. The contract, etched on a thin sheet of lead, was the only dry ground. It was a masterpiece of ambiguity. The crucial clause regarding the division of losses from “act of god or sea hazard” could be read two ways, each leading to a completely different financial outcome. Philon claimed it meant one thing. Mnasos, who had brought the suit, claimed it meant the other. Both, I suspected, had understood the ambiguity perfectly when they signed it, each believing fortune—or their own cunning—would favour them.
 
@@ -144,7 +148,9 @@ I write this for no client. I write it to keep the ghost-words alive. It is my o
 
 ---
 
- CHAPTER 3
+Chapter 3
+
+CHAPTER 3
 
 Philon lost.
 
@@ -218,11 +224,13 @@ Tomorrow, I must show Thucydides my lists. I will point to the extra words in th
 
 But tonight, I mourn for the lost, frantic cry of that scribe in Amphipolis, whose full terror did not make the final cut. His truth, too, was real. Where does it go?
 
+
+
 ---
 
- Chapter 4
+Chapter 4
 
- CHAPTER 4
+CHAPTER 4
 
 The ink on my private papyrus was dry, a brittle black river frozen in its course. I rolled the sheet, tied it with a cord, and placed it with the others in the cedar box. The action felt like a burial. Dawn was a grey rumour at the window, not yet a fact. I had not slept. The question Thucydides had unwittingly posed—where does the lost truth go?—echoed in the chamber of my skull, a frantic scribe of my own.
 
@@ -334,11 +342,13 @@ A figure stepped into the edge of the light. He wore the practical, dark garb of
 
 He closed the book with a soft snap. The sound was the lock of a cell door, turning in the silence.
 
+
+
 ---
 
- Chapter 5
+Chapter 5
 
- CHAPTER 5
+CHAPTER 5
 
 The silence after the snap of the book was not a silence at all. It was the held breath of the deep earth, the hum of a plucked string after the note has faded. The man’s smile did not waver. It was a museum-piece smile, curated and dusted, belonging to a portrait in a hall of forgotten benefactors. The lantern light pooled in the hollows of his eyes, making them deep and unlit.
 
@@ -508,11 +518,13 @@ From the chamber’s only door—a simple, iron-bound thing—came a new sound. 
 
 The door began to open.
 
+
+
 ---
 
- Chapter 6
+Chapter 6
 
- CHAPTER 6
+CHAPTER 6
 
 The stone was different here. It was not the damp, porous rock of the mountain citadel, nor the rough-hewn block of my first cell. This was a polished, alien marble, cold with a dryness that spoke of a place untouched by weather, by breath, by time. It leached warmth without offering the courtesy of moisture. I lay on it, my cheek pressed against its impossible smoothness, and tried to remember how to be a single thing.
 
@@ -692,11 +704,13 @@ From the darkness of the bone-yard, a new sound emerged. Not the scuttle of verm
 
 We were not alone. And the hunt was not over.
 
+
+
 ---
 
- Chapter 7
+Chapter 7
 
- CHAPTER 7
+CHAPTER 7
 
 The obsidian key was a black tooth in my fist. I pushed myself off the rusted turbine, the metal groaning in protest. My body was a collection of aches, each with its own distinct signature: the deep, resonant throb in my jaw where Kael had struck me; the sharp, bright sting of cuts along my forearms from the duct; the hollow, sucking void in my chest where Elara had been. That last one was not a pain that could be mapped. It was an atmospheric pressure, a weight that made the very air difficult to draw.
 
@@ -739,8 +753,7 @@ Kael did not answer immediately. He finished his adjustments and held the device
 “We will see the loom,” he said, his voice low. “And the patterns they are weaving with our threads. Brace yourself, Leo. The past is a prison. But the future is a hall of mirrors. And in every one, you are the flaw in the glass.”
 
 He activated the resonator.
-
-The world did not dissolve. It delaminated.
+  - The world did not dissolve. It delaminated.
 
 The bone-yard did not vanish, but it became a ghost of itself, a translucent sketch overlaid with another reality. It was like viewing a scene through a sheet of warped, frosted glass. The rusted machinery was still there, but beneath it, or within it, I could see the suggestion of smooth, pearlescent walls, the shimmer of energy conduits, the impossible, non-Euclidean angles of a corridor that folded back onto itself.
 
@@ -777,8 +790,7 @@ I gripped the key until I felt the skin of my palm split. “What about you?”
 He tapped his brass eye. “I have my own anchor. A fragment of the very technology they use. It will… ground me. After you.”
 
 There was no ceremony, no deep breath to prepare. There was only the doing. I placed my free hand against the cold scrap metal, and with the image of the energy membrane fixed in my mind, I pushed.
-
-The world did not delaminate this time. It shattered.
+  - The world did not delaminate this time. It shattered.
 
 There was a sound like a bell the size of a city cracking, a silent, sub-aural fracture that vibrated in the marrow of my bones. I was pulled, stretched, compressed—all at once. A kaleidoscope of images, too fast to comprehend, too visceral to ignore: a childhood birthday, the taste of engine-grade lubricant, the smell of Elara’s hair as she slept, the cold of the stone cell from a lifetime ago, the screech of the vault lock, the thrum-thrum-thrum of the Engine.
 
@@ -888,11 +900,13 @@ They were preparing her for the Loom.
 
 The hunt was over. The endgame had begun.
 
+
+
 ---
 
- Chapter 8
+Chapter 8
 
- CHAPTER 8
+CHAPTER 8
 
 The silence in the maintenance lift was not the absence of sound, but the presence of a held breath. The metal cage groaned as it descended, a slow, shuddering protest against the unnatural rhythms of the Loom. The thrum… thrum… thrum… from above was a heartbeat now, a deep, arterial pulse that vibrated through the cables and into the soles of my boots. Kael stood opposite me, a silhouette against the grated door, his face a map of shifting shadows cast by the single, sickly lumen-strip overhead. He was watching the floor indicators tick down, his own breathing measured, calm. Too calm. The kind of calm that is carved, not born.
 
@@ -1196,11 +1210,13 @@ I looked at the shifting, impossible horizon. I listened to the new silence in m
 
 And we began to climb, into the dark and the glittering, unknown dawn.
 
+
+
 ---
 
- Chapter 9
+Chapter 9
 
- CHAPTER 9
+CHAPTER 9
 
 The dark was not empty. It was full of the glittering dust, and the dust was full of worlds. We moved through it like ghosts through a gallery of broken windows, each shard offering a glimpse into a room where a different life was being lived. The amber daylight to our left poured a false, honeyed warmth over the rocks; to our right, the green storm hissed, spitting needles of ice that vanished before they could strike the ground. The air smelled of ozone and burnt cinnamon and the iron tang of my own blood, all at once. It was too much. It was a scream in every sense at once. I focused on the pain in my shoulder, on the rough grip of Elara’s hand on my arm. They were anchors. They were real.
 
@@ -1213,8 +1229,7 @@ Elara took it. The metal was warm, almost alive. She did not look at him. “The
 He nodded up the fracture-cut path, toward a deeper darkness that the prismatic chaos seemed to avoid. “There. Where the light won’t go. It never liked the light.” He coughed, a wet, ragged sound. “You’ll wish it had.”
 
 We left him there, half in this world, half in another. He was part of the scenery now. A piece of the wreckage.
-
-The entrance to the Engine chamber was a mouth. It was a simple arch of fitted stone, older than anything else on the mountain, worn smooth by a wind that had blown long before the Loom was conceived. The chaotic light from the sky did not pierce beyond the threshold. It stopped, as if cut by a knife. The silence from within was not the woolen quiet of my cell. It was a vacuum. A sucked-out hollow where sound went to die.
+  - The entrance to the Engine chamber was a mouth. It was a simple arch of fitted stone, older than anything else on the mountain, worn smooth by a wind that had blown long before the Loom was conceived. The chaotic light from the sky did not pierce beyond the threshold. It stopped, as if cut by a knife. The silence from within was not the woolen quiet of my cell. It was a vacuum. A sucked-out hollow where sound went to die.
 
 We passed under the arch. The world fell away.
 
@@ -1328,11 +1343,13 @@ I looked at the crystal in my hand. Its gentle pulse seemed to pull, faintly, to
 
 And we began to walk, into the permanent, glittering dusk, guided by the heartbeat of a dead god.
 
+
+
 ---
 
- Chapter 10
+Chapter 10
 
- CHAPTER 10
+CHAPTER 10
 
 The mountain did not want us to leave. It was a living thing, wounded and furious, and we were the infection it sought to expel. The solidity I had felt moments before was an illusion, a held breath. Now, it exhaled.
 
@@ -1504,11 +1521,13 @@ And as we began to walk down the slope, leaving the grave of the mountain behind
 
 The Guild Leader was gone. But someone, or something, had been listening. And now, it had begun to listen for me.
 
+
+
 ---
 
- Chapter 11
+Chapter 11
 
- CHAPTER 11
+CHAPTER 11
 
 The inn was loud, warm, and smelled of spilled ale and roasting meat. It was a violence of normality. After the hollowed-out silence of the mountain, the sheer density of sound and smell was a physical weight. Laughter was a blunt instrument. The clatter of a dropped tankard was a gunshot. I sat on a bench by the fire, my hands wrapped around a mug I had no intention of drinking from, and felt the world press in, thick and insistent.
 
@@ -1676,11 +1695,13 @@ We had no artifact. We had no clear enemy. We had only the aftermath of a silenc
 
 It was the quiet after a gunshot. Vast, ringing, and waiting for the echo to come back.
 
+
+
 ---
 
- Chapter 12
+Chapter 12
 
- FINAL CHAPTER
+FINAL CHAPTER
 
 The stone was warm and smooth beneath my palm. I had been sitting there long enough for the late afternoon sun to bake the museum’s front steps, long enough for the granite to hold a memory of the day’s heat against my skin. I did not move. To move was to admit the step was real, the city’s hum was real, the faint, clean taste of rain-washed air was real. Instead, I listened to the silence. It was not a true silence. It was the layered, porous quiet of a place holding its breath between heartbeats, threaded through with the distant sigh of traffic and the scuffle of pigeons. And beneath it, if I listened with the part of me that was now permanently tuned to a different frequency, I could hear the faint, ghostly echo of other footsteps on these same stones.
 
@@ -1695,8 +1716,7 @@ Elara was a visiting researcher from the University of Edinburgh, here to consul
 The mundane world was intact, polished to a high shine over the cracks. But the cracks were still there, visible to me. My temporal awareness, the dissonance I’d become, hadn’t left. It had settled. It was no longer a screaming chorus of then and now; it was a permanent, low-grade synesthesia. I didn’t just see the 4th-century torque in Display Case B; I saw a faint, shimmering echo of the smith’s fire, the grunt of effort as the mold was broken, the pride-that-was-also-a-prayer as it was placed around a chieftain’s neck. The museum wasn’t a mausoleum of dead things. It was a gallery of lingering ghosts, each object humming softly with the memory of its making.
 
 I was a keeper again. But not of artifacts. Of echoes.
-
-A slip of paper was under my door the next morning. Precise, angular handwriting. Dr. Thorne – Regarding the Brigante ceremonial hoard. Coffee? 2pm, The Vault? – E. Vance.
+  - A slip of paper was under my door the next morning. Precise, angular handwriting. Dr. Thorne – Regarding the Brigante ceremonial hoard. Coffee? 2pm, The Vault? – E. Vance.
 
 The Vault was a basement café across the street, all exposed brick and overpriced sourdough. I arrived early, choosing a corner table where the wall met the cool stone of the foundation. It felt familiar. Grounded.
 
@@ -1731,8 +1751,7 @@ We talked for an hour. Of safe things. Of iron composition, of soil acidity, of 
 As we got up to leave, she paused. “That project. Cataloging the stains. Would you… need an assistant? My grant is flexible.”
 
 I looked at her. The warrior was gone. The scholar remained, but now with a crack in her lens, letting in a different light. “I think,” I said, “that would be ideal.”
-
-Alistair found me in the stacks two days later, up a ladder, searching for a moldering catalog of Victorian acquisitions. He stood below, hands clasped behind his back, a model of benign confusion.
+  - Alistair found me in the stacks two days later, up a ladder, searching for a moldering catalog of Victorian acquisitions. He stood below, hands clasped behind his back, a model of benign confusion.
 
 “Thorne? That you up there?”
 
@@ -1759,8 +1778,7 @@ He was building a new story from the rubble of the old one. Not the Guild’s st
 “I’ll need help,” he said, stopping abruptly. “You, obviously. And that sharp Vance woman. She has a good eye for what’s not there.”
 
 “I’ll speak to her,” I said.
-
-The project became my anchor. Fragments & Absences: The Unwritten History of the Borderlands. We worked in the evenings, the three of us in my office, surrounded by books and images and maps marked with question marks. Elara brought a forensic intensity, learning to lean into her sensitivity to the “stains,” using them to ask better questions. Alistair brought his rigorous methodology, building scholarly scaffolding around the voids. And I… I navigated.
+  - The project became my anchor. Fragments & Absences: The Unwritten History of the Borderlands. We worked in the evenings, the three of us in my office, surrounded by books and images and maps marked with question marks. Elara brought a forensic intensity, learning to lean into her sensitivity to the “stains,” using them to ask better questions. Alistair brought his rigorous methodology, building scholarly scaffolding around the voids. And I… I navigated.
 
 I learned to dial the echoes up or down. To listen to the whisper of a Roman soldier’s homesickness from a belt buckle, or to let it fade to a background hum. I was not controlling time. I was listening to its aftermath. The war of memory was not over; the Guild Leader was out there, unmoored, in other thens. But here, in this now, I was no longer a thief trying to steal a fixed story, nor a keeper trying to preserve one. I was a chronicler of the dissonance itself. My identity, once shattered between then and now, had reformed around that very fracture. I was the break in the story. And from that break, a new kind of truth could emerge.
 
@@ -1804,11 +1822,13 @@ The key was cold, and it opened nothing we knew.
 
 Outside, the first bird of dawn began to sing. The silence was over. The echo had returned. And I was here, in the now, waiting for it.
 
+
+
 ---
 
- Chapter 13
+Chapter 13
 
- CHAPTER 13
+CHAPTER 13
 
 The key was cold, and it opened nothing we knew.
 
@@ -1966,11 +1986,13 @@ A smile, genuine this time, touched his lips. It was the smile of a master craft
 
 He led me deeper into the library.
 
+
+
 ---
 
- Chapter 14
+Chapter 14
 
- CHAPTER 14
+CHAPTER 14
 
 The archivist’s footsteps made no sound on the carpet of compressed dust. I followed, the silence of the place settling into my lungs like a fine, abrasive powder. It was a different quiet from my cell’s damp wool, or the museum’s hollow reverence. This was the quiet of held breath, of infinite potential suspended in the act of never being born. The green-shaded lamps threw our shadows against the cliffs of shelves, giants that stretched and shrank as we moved.
 
@@ -2001,16 +2023,14 @@ His smile returned. He opened the book. The pages were not paper, but something 
 “Don’t read the words,” he murmured. “Let the words read you.”
 
 I looked down. The silver script did not resolve into letters. It was a pattern, a neural map of impulse and inhibition. I leaned closer. The cold from the pages breathed against my face.
-
-It is summer. The air is thick with the smell of cut grass and hot asphalt. A boy of nine kneels on a sidewalk, a magnifying glass in his hand. A column of smoke rises from a brown, crisping leaf. He is not thinking of cruelty. He is thinking of focus. Of the sun, distant and indifferent, made into a precise point of creation and destruction in his hand. It is power, but a lonely one. He looks up. Across the street, a girl his age watches from her porch swing. She has seen the smoke. Her face is not angry, but curious. She raises a hand, not a wave, but a mirror of his own gesture, holding an invisible lens. An invitation. A shared experiment.
+  - It is summer. The air is thick with the smell of cut grass and hot asphalt. A boy of nine kneels on a sidewalk, a magnifying glass in his hand. A column of smoke rises from a brown, crisping leaf. He is not thinking of cruelty. He is thinking of focus. Of the sun, distant and indifferent, made into a precise point of creation and destruction in his hand. It is power, but a lonely one. He looks up. Across the street, a girl his age watches from her porch swing. She has seen the smoke. Her face is not angry, but curious. She raises a hand, not a wave, but a mirror of his own gesture, holding an invisible lens. An invitation. A shared experiment.
 
 The boy sees her. For a second, the loneliness cracks. A path opens: to cross the street, to show her the trick, to see what she might show him. A collaboration of light.
 
 He looks back at the leaf. It curls, blackens. The focus is easier. The loneliness is familiar. He lowers the glass. When he looks up again, the porch swing is empty.
 
 The moment of recognition—of a possible ally in his solitude—dissipates. It becomes a ghost. And here, in the grey book, it finds a home. It becomes a subtle pressure. For the rest of his life, in meetings, in partnerships, he will feel a faint, inexplicable resistance to true collaboration. He will prefer the clean, lonely focus. He will become a brilliant surgeon, a precise and solitary watchmaker. He will be admired, but never truly joined. The anchor in the grey book did not make him so. It simply ensured the ghost of that unmade choice never quite left him. It cemented the path he took.
-
-I straightened up. The library swam back into focus, the green lamps like drowned stars. A hollow ache, precise and cold, had settled behind my eyes. It was not my memory. It was the ghost of a memory that had never lived, now living parasitically in me for a few seconds.
+  - I straightened up. The library swam back into focus, the green lamps like drowned stars. A hollow ache, precise and cold, had settled behind my eyes. It was not my memory. It was the ghost of a memory that had never lived, now living parasitically in me for a few seconds.
 
 “Efficient,” I said, my voice rough.
 
@@ -2168,11 +2188,13 @@ The age of echoes had begun.
 
 And I was the one who had opened the door.
 
+
+
 ---
 
- Chapter 15
+Chapter 15
 
- CHAPTER 15
+CHAPTER 15
 
 The city tasted of salt and regret.
 
@@ -2287,14 +2309,10 @@ And I felt it.
 A pull. A deep, psychic suction from the man-shaped knot of stories before me. But it was not pulling me. It was pulling from me. Drawing the unlived moments of my own life up to the surface.
 
 The alley vanished.
-
-I am ten years old. I am standing at the end of the pier in the small fishing village where I was born. My father’s boat is a smudge on the horizon. The salt wind is in my hair. My mother has called me for supper three times. I do not go. I stand, and I watch the boat until it disappears. In this echo, I do not turn away. I wait. I wait all night. And in the morning, the boat is not on the horizon. It is wrecked on the rocks just beyond the harbour mouth. I see it all. I see the splintered wood. I see the green netting tangled in the shale. I do not see my father. In this story, I am there. I witness the consequence of my waiting. The grief is immediate, specific, brutal. It fills my chest with shattered glass.
-
-The stone floor is cool and damp against my cheek. I am in the Thracian’s cell. The gaoler’s key screams in the lock. Light spills. “On your feet, Athenian.” In this echo, I do not push myself up. I lie still. I let the chill seep into my heart. I let the silence claim me. The gaoler grunts, kicks me once, and leaves. The door closes. The lock turns. The darkness returns, absolute and final. This is the story where I give up. The relief is profound, an infinite, cold surrender. It is so much easier than getting to my feet.
-
-I am in the room with the grey book. The lock is before me. The key is in my hand, warm with decision. In this echo, I do not turn it the wrong way. I turn it the right way. The lock clicks open. The book remains sealed. The power stays contained. The Museum wins. I walk away, the key now just a key. My life is my own, small, bounded, safe. The loneliness of that safety is a vast, empty plain, stretching to every horizon.
-
-They came not as memories, but as fully-realised experiences. The unlived moments of my life, the discarded branches of my own story, given flesh and feeling by the curator’s pull. They were not fantasies. They were truths—the truths of the other paths. They flooded me, one after another, a cascade of alternative selves, each with their own perfect, devastating coherence.
+  - I am ten years old. I am standing at the end of the pier in the small fishing village where I was born. My father’s boat is a smudge on the horizon. The salt wind is in my hair. My mother has called me for supper three times. I do not go. I stand, and I watch the boat until it disappears. In this echo, I do not turn away. I wait. I wait all night. And in the morning, the boat is not on the horizon. It is wrecked on the rocks just beyond the harbour mouth. I see it all. I see the splintered wood. I see the green netting tangled in the shale. I do not see my father. In this story, I am there. I witness the consequence of my waiting. The grief is immediate, specific, brutal. It fills my chest with shattered glass.
+  - The stone floor is cool and damp against my cheek. I am in the Thracian’s cell. The gaoler’s key screams in the lock. Light spills. “On your feet, Athenian.” In this echo, I do not push myself up. I lie still. I let the chill seep into my heart. I let the silence claim me. The gaoler grunts, kicks me once, and leaves. The door closes. The lock turns. The darkness returns, absolute and final. This is the story where I give up. The relief is profound, an infinite, cold surrender. It is so much easier than getting to my feet.
+  - I am in the room with the grey book. The lock is before me. The key is in my hand, warm with decision. In this echo, I do not turn it the wrong way. I turn it the right way. The lock clicks open. The book remains sealed. The power stays contained. The Museum wins. I walk away, the key now just a key. My life is my own, small, bounded, safe. The loneliness of that safety is a vast, empty plain, stretching to every horizon.
+  - They came not as memories, but as fully-realised experiences. The unlived moments of my life, the discarded branches of my own story, given flesh and feeling by the curator’s pull. They were not fantasies. They were truths—the truths of the other paths. They flooded me, one after another, a cascade of alternative selves, each with their own perfect, devastating coherence.
 
 The grief of the drowned father. The peace of surrender in the cell. The sterile safety of obedience. They were all true. And they were all inside me, fighting the thread I had actually lived.
 
@@ -2336,11 +2354,13 @@ I turned my back on the river and began to walk, not away from the haunting, but
 
 I would have to learn to listen to them, without letting them sing.
 
+
+
 ---
 
- Chapter 16
+Chapter 16
 
- CHAPTER 16
+CHAPTER 16
 
 The city’s new song was a madrigal of stolen moments. I walked through the agora, and the air was thick with the perfume of conversations that had never bloomed. A merchant haggled with a customer over the price of figs, his voice layered with the ghost of a different argument, a fiercer one about a debt of honor. The customer’s hands fluttered, her real irritation braided with the echo of a lover’s tender apology. The result was a discordant harmony, a person split across two realities, their face a mask of confused emotion. They did not scream. They adapted. The human mind, when presented with a ghost in its own house, will often make up a chair for it to sit in.
 
@@ -2544,11 +2564,13 @@ I turned and ran, not into the city’s heart, but toward the wild, dark places 
 
 Now I had to survive the silence that would come hunting for me.
 
+
+
 ---
 
- Chapter 17
+Chapter 17
 
- CHAPTER 17
+CHAPTER 17
 
 The world had narrowed to the stitch in my side and the hammer of blood in my ears. The manicured slopes of the Pnyx gave way to rough scrub, then to the true wilderness that clung to the city’s bones like a forgotten conscience. I did not look back. To look back was to see the silver-blue tide ascending, methodical and swift as a rising frost. Their light did not flicker like torchlight. It was a constant, cold emission, turning the olive leaves to pale mercury and the rocks to bone.
 
@@ -2778,11 +2800,13 @@ I had sought to give ghosts their voices. But the living, it seemed, still had a
 
 And I had just learned how to turn the key.
 
+
+
 ---
 
- Chapter 18
+Chapter 18
 
- CHAPTER 18
+CHAPTER 18
 
 The space behind the kiln was a pocket of chemical-scented dark. I slept in fits, my dreams a slurry of shouting women and silent, silver-blue light. Each time I surfaced, I saw the rigid line of Lykos’s back against the faint grey seam of the yard, a statue carved from vigilance. The potters’ quarter held its breath around us. The only sounds were the occasional pop of cooling clay from the great kilns and the distant, rhythmic thump of a loom from a workshop that never slept. The Curators did not return. Their hunt had moved on, following fresher trails of discord.
 
@@ -2948,11 +2972,13 @@ I had sought to give ghosts their voices.
 
 The light consumed the thought, and then it consumed everything else.
 
+
+
 ---
 
- Chapter 19
+Chapter 19
 
- CHAPTER 19
+CHAPTER 19
 
 The light was not a light. It was a solvent. It did not illuminate; it dissolved. The silver-blue wash passed through me like a winter wind through a sieve, leaving no part untouched. It found the seams of memory, the mortar between thought and feeling, and it pried. There was no pain. Pain was a signal of conflict, of a boundary resisting. This was a quieter violence. It was the erasure of boundaries. The light was a tide, and I was the sand it smoothed away.
 
@@ -3118,11 +3144,13 @@ Not with light. Not with sound.
 
 With a color that had no name.
 
+
+
 ---
 
- Chapter 20
+Chapter 20
 
- CHAPTER 20
+CHAPTER 20
 
 The crack was not a fracture in the floor. It was a fracture in the substance of the world. The color that had no name was not a hue seen by the eye, but a sensation felt in the marrow, a frequency that vibrated the teeth and made the ghost of my heartbeat stutter in my chest. It was the opposite of the Steward’s curated white. It was un-curated. It was the raw, unmixed pigment from which all other chaos was derived.
 
@@ -3272,11 +3300,13 @@ I took a breath, filled my lungs with the electric air of the quarry, and steppe
 
 The nameless color closed over my head, and the world became a battle cry.
 
+
+
 ---
 
- Chapter 21
+Chapter 21
 
- CHAPTER 21
+CHAPTER 21
 
 The color was not water. It was not liquid, nor mist, nor light. It was the substance of unformed memory, and it had the viscosity of cold honey and the conductivity of lightning. It closed over my head, and for a moment there was only the pressure of it in my ears, against my eyes, a silent, weightless drowning. Then the current caught me.
 
@@ -3456,11 +3486,13 @@ Lykos met my gaze. The shared understanding was back, heavier now. The cost was 
 
 We had won our memories. Now we would have to fight to keep them.
 
+
+
 ---
 
- Chapter 22
+Chapter 22
 
- CHAPTER 22
+CHAPTER 22
 
 The sun was a liar. It poured its honeyed light over the Agora, gilding the dust, warming the stone, painting a scene of mundane Athenian afternoon. It lied about warmth. The cold that had settled in my marrow when the dark figure made his gesture did not abate. It was the cold of the archive’s perfect silence, but here it was dressed in light and noise, a more insidious chill. The figure was gone, swallowed by the shifting shadows of the colonnade, but the afterimage of that slow, deliberate slash across his own throat remained, etched against the bright sky.
 
@@ -3660,11 +3692,13 @@ We had a name. Now we needed his secret.
 
 And we had until dawn to steal it.
 
+
+
 ---
 
- Chapter 23
+Chapter 23
 
- CHAPTER 23
+CHAPTER 23
 
 The house of Pherecles was not a fortress. It was a statement. It sat on the slope of the Pnyx, a low, clean-lined silhouette of pale limestone and dark cedar, its roof a sharp angle against the bruised pre-dawn sky. It spoke of disciplined wealth, of a man who understood that true power was not shouted from the ramparts, but murmured in well-appointed rooms. No high walls encircled it, only a grove of carefully pruned olive trees and a low terrace of potted herbs. Its defense was not in iron, but in presumption. Who would dare?
 
@@ -3852,11 +3886,13 @@ We pushed ourselves up, our bodies protesting, our spirits hollowed out. We were
 
 The spark we carried was no longer ours. We were just the conduit. The fire would be his.
 
+
+
 ---
 
- Chapter 24
+Chapter 24
 
- CHAPTER 24
+CHAPTER 24
 
 The merchant’s compound was not a place you found. It was a place you were permitted to approach. It sat on the slope of the Lycabettus, not at the summit where the rich flaunted their views, but in a fold of the hill where the light arrived late and left early. A high, blank wall of ochre stucco, stained by weather and time, presented a face as revealing as a tomb. There was a gate, of course, but it was not on the street. You had to know the alley, then the narrower passage that branched from it, then the recessed door of aged cedar, blackened by seasons. A single, tarnished bronze knocker in the shape of a coiled serpent was the only concession to an entrance.
 
