@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## **CHAPTER 1**
 
 The stone was cool and slightly damp against my cheek. I had been lying there long enough for the chill to seep through skin and into bone, long enough for the rough-hewn edge of the block to imprint a lattice of pain across my face. I did not move. To move was to admit the stone was real, the cell was real, the iron taste of blood in my mouth was real. Instead, I listened to the silence. It was not a true silence. It was the thick, woolen quiet of a place underground, threaded through with the distant drip of water and the scuttle of something with too many legs. And beneath that, the sound of my own breathing, a ragged, untidy rhythm in the dark.
@@ -78,6 +80,8 @@ I looked at the blank papyrus. I did not write about grain contracts. Instead, I
 
 ---
 
+# Chapter 2
+
 ## **CHAPTER 2**
 
 The grain merchant’s name was Philon. His account of events was a swamp of self-justification and panic. I spent the first day waist-deep in it, cross-referencing his meandering narrative with the terse, damning depositions from his business partner, a Cypriot named Mnasos. The contract, etched on a thin sheet of lead, was the only dry ground. It was a masterpiece of ambiguity. The crucial clause regarding the division of losses from “act of god or sea hazard” could be read two ways, each leading to a completely different financial outcome. Philon claimed it meant one thing. Mnasos, who had brought the suit, claimed it meant the other. Both, I suspected, had understood the ambiguity perfectly when they signed it, each believing fortune—or their own cunning—would favour them.
@@ -143,6 +147,8 @@ I took up the stylus again.
 *I write this for no client. I write it to keep the ghost-words alive. It is my own, private contract. A clause with myself.*
 
 ---
+
+# Chapter 3
 
 ## **CHAPTER 3**
 
